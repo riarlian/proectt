@@ -9,5 +9,6 @@
 |---|------------------------|----------------|
 | 1 | FitnessKit Backend API | Backend Python |
 | 2 | abz.agency             | Backend Python |
-| 3 | Bewise                 | Backend Python |
-| 4 | KosyanMedi             | Python / CLI   |
+| 3 | Bewise                 | Backend Python |git add .
+git commit -m "update readme files"
+git push
