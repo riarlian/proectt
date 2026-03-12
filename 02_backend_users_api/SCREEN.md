@@ -6,7 +6,7 @@
 
 ### Создание пользователя
 
-![create](screens/create_user.png)
+![create](screens/createuser.png)
 
 ### Список пользователей
 
