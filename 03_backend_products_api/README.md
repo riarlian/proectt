@@ -55,4 +55,8 @@ http://127.0.0.1:8082/api/products/
 
 ### Создание продукта
 
-![create](screens/create_product.png)
+![create](screens/createproduct.png)
+
+### Список продуктов
+
+![products](screens/productlist.png)
