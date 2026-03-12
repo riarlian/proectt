@@ -6,8 +6,8 @@
 
 ### Создание задачи
 
-![create](screens/create.png)
+<img src="01_backend_fitnesskit/homework/create.png"/>
 
 ### Список задач после создания
 
-![tasks list](screens/taskslist.png)
+<img src="01_backend_fitnesskit/homework/taskslist.png"/>
