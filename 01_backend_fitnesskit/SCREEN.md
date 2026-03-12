@@ -1,13 +1,13 @@
-# Screenshots
+## Скриншоты
 
-## Список задач
+### Список задач
 
 ![tasks](screens/tasks.png)
 
-## Создание задачи
+### Создание задачи
 
 ![create](screens/create.png)
 
-## Список задач
+### Список задач после создания
 
 ![tasks list](screens/taskslist.png)
