@@ -2,7 +2,7 @@
 
 ### Список задач
 
-![tasks](screens/tasks.png)
+<img src="01_backend_fitnesskit/homework/tasks.png"/>
 
 ### Создание задачи
 
